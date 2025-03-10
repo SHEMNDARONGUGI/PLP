@@ -20,6 +20,9 @@ print(f"Sum: {sum_result}")
 print(f"Difference: {difference_result}")  
 print(f"Product: {product_result}")  
 print(f"Quotient: {quotient_result}")  
+
+from functions import greet
+greet("Shem")
  
 
 
